@@ -1,4 +1,4 @@
-package Day2;
+package day2;
 import java.util.Scanner;
 public class Switch_Case {
 	public static void main(String[] args) {

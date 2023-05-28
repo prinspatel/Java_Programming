@@ -1,4 +1,4 @@
-package Day2;
+package day2;
 
 public class Array_two_DIa {
 	public static void main(String[] args) {

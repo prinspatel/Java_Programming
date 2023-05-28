@@ -1,4 +1,4 @@
-package Day2;
+package day2;
 
 public class Brack_and_Continue {
 	public static void main(String[] args) {
