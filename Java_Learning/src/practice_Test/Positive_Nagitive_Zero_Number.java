@@ -1,4 +1,4 @@
-package Practice_Test;
+package practice_Test;
 
 public class Positive_Nagitive_Zero_Number {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Practice_Test;
+package practice_Test;
 
 public class Find_Sum_of_Elements_in_Array {
 	public static void main(String [] args) {

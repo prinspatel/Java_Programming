@@ -1,4 +1,4 @@
-package Practice_Test;
+package practice_Test;
 
 public class Search_an_element_in_array {
 

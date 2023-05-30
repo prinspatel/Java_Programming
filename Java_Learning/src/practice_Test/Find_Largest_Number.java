@@ -1,4 +1,4 @@
-package Practice_Test;
+package practice_Test;
 
 public class Find_Largest_Number {
 	public static void main(String[] args) {
